@@ -1,0 +1,26 @@
+[
+    {
+      "title": "NEWS APP",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to fetch real time news using gnews api for users.",
+      "skills": ["HTML", "CSS", "JavaScript" , "APIs"],
+      "demo": "https://ankur-dwivedi22.github.io/NewsApp/",
+      "source": "https://github.com/Ankur-Dwivedi22/NewsApp"
+    },
+    {
+      "title": "KEEPER APP",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to take quick notes and allows users to edit them.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://github.com/Ankur-Dwivedi22/KeeperApp/tree/main/src",
+      "source": "https://github.com/Ankur-Dwivedi22/KeeperApp/tree/main/src"
+    },
+    {
+      "title": "TODO LIST",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made for users to make a list of daily tasks and store them.",
+      "skills": ["PostgreSQL", "Express", "Node"],
+      "demo": "https://github.com/Ankur-Dwivedi22/toDoList",
+      "source": "https://github.com/Ankur-Dwivedi22/toDoList"
+    }
+  ]
